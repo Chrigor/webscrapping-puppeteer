@@ -1,0 +1,12 @@
+{
+  "name": "webscrapping-puppeter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "npm start": "node src/index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
